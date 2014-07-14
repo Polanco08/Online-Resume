@@ -1,8 +1,8 @@
 Online-Resume
 =============
 
-Create by: Giordano Polanco<br>
-Author URI: wwww.web-desings.com - www.jordanopolanco.com
+<strong>Create by:</strong> Giordano Polanco<br>
+<strong>Author URI:</strong> wwww.web-desings.com - www.jordanopolanco.com
 
 
 Online Resume - Minimalist Style
